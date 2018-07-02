@@ -1,4 +1,4 @@
-function omg
+function fuck
   if test "$argv" = !!
     eval sudo $history[1]
   else
