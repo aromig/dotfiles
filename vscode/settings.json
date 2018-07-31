@@ -9,7 +9,7 @@
     "editor.minimap.enabled": true,
     "editor.dragAndDrop": true,
     "extensions.ignoreRecommendations": false,
-    // Configure file associations to languages (e.g. "*.extension": "html"). These have precedence over the default associations of the languages installed.
+    /* Configure file associations to languages (e.g. "*.extension": "html"). These have precedence over the default associations of the languages installed. */
     "files.associations": {
         "*.master": "html"
     },
@@ -18,7 +18,7 @@
     "editor.formatOnPaste": true,
     "open-in-browser.default": "Firefox",
     "gitlens.currentLine.enabled": false,
-    //"mssql.connections": [],
+    /* "mssql.connections": [], */
     "workbench.iconTheme": "vscode-icons",
     "editor.renderWhitespace": "none",
     "editor.cursorStyle": "line-thin",
