@@ -1,0 +1,31 @@
+{
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "editor.mouseWheelZoom": false,
+    "window.clickThroughInactive": false,
+    "editor.fontFamily": "Fira Code, Inconsolata, Source Code Pro, monospace",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": true,
+    "editor.dragAndDrop": true,
+    "extensions.ignoreRecommendations": false,
+    // Configure file associations to languages (e.g. "*.extension": "html"). These have precedence over the default associations of the languages installed.
+    "files.associations": {
+        "*.master": "html"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "open-in-browser.default": "Firefox",
+    "gitlens.currentLine.enabled": false,
+    //"mssql.connections": [],
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "smooth",
+    "editor.find.autoFindInSelection": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.colorTheme": "Winter is Coming (Dark)"
+}
