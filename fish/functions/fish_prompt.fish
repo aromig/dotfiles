@@ -1,6 +1,7 @@
 function fish_prompt --description 'Write out the prompt'
 	set -l last_status $status
 
+    echo
     # User
     set_color 00aaff
     echo -n (whoami)
